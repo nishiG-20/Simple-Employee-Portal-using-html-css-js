@@ -1,0 +1,61 @@
+/* background color black */
+.bg-black {
+    background-color: black;
+}
+
+/* White Text */
+.white-text {
+    color: white;
+}
+
+/* padding for buttons */
+.pad {
+    padding: 5px;
+}
+
+.bg-grey {
+    background-color: grey;
+    color: white;
+    text-align: center;
+}
+
+td {
+    width: 134px;
+    ;
+}
+
+/* Table Margin */
+.mg {
+    margin-top: 10px;
+    ;
+}
+
+.cus-pos:hover {
+    cursor: default;
+    background-color: red;
+}
+
+.Mg-left {
+    margin-left: 100px;
+}
+
+#ft {
+    margin-top: 10px;
+    width: 517px;
+    height: 151px;
+    border: 2px solid black;
+    word-wrap: break-word;
+}
+
+
+#ft2 {
+    margin-top: 10px;
+    width: 517px;
+    height: 95px;
+    border: 2px solid black;
+    word-wrap: break-word;
+}
+
+.hv-red:hover {
+    background-color: red;
+}
